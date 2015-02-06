@@ -4,7 +4,7 @@
 Summary:	Plasma applet that provides clock via steampunk interface
 Name:		plasma-applet-%{oname}
 Version:	1.1
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
 Url:		http://kde-apps.org/content/show.php?content=%{kdeid}
